@@ -1,5 +1,5 @@
 ---
 title: "Blog Posts"
-meta_title: ""
-description: "this is meta description"
+meta_title: "Blog Posts"
+description: "Devop's & .Net Developing."
 ---
