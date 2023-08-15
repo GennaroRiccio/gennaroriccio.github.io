@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "DevOp per .net Developer"
+  title: "DevOp & .Net Developer"
   content: "Parliamo di Devop e sviluppo su tecnologia .net"
   image: "/images/banner.png"
   button:
