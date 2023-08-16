@@ -27,6 +27,6 @@ Out of the box, Backstage include:
 
 ## Funzionalità
 
-![menu](/assets/images/backstage_menu.png)
+![](backstage_menu.png)
 
 
