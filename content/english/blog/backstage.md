@@ -12,7 +12,10 @@ draft: false
 
 Mi è capitato nella mia lunga carriera (30 anni) di lavorare per diverse aziende, ma trovarne una che aveva un'adeguata documentazione sugli standard per sviluppare è stato pura utopia.
 
-Quindi c'era il senior o l'architect di turno che con malavoglia e malagrazia di spiegava due cose in croce e per il resto dovevi sputare sangue, mi chiedo a che pro? perchè sprecare tempo di una risorsa quando ci sono tool (open source, gratis, etc..) che permettono di documentare bene un progetto.
+Quindi c'era il senior o l'architect di turno che con malavoglia e malagrazia ti spiegava due cose in croce e per il resto dovevi sputare sangue, mi chiedo a che pro? Perchè sprecare tempo di una risorsa quando ci sono tool (open source, gratis, etc..) che permettono di documentare bene un progetto.
+Uno di questi è Backstage creato dalla fucina di sviluppo di Spotify.
+
+[backstage.io](https://backstage.io/ "backstage site")
 
 ## Backstage Spotify
 
@@ -27,6 +30,14 @@ Out of the box, Backstage include:
 
 ## Funzionalità
 
-![](backstage_menu.png)
+Il menu di backstage ci mostra le principali funzionalità, tra quelle interessanti la gestione delle API e Docs dovre troviamo la documentazione di tutte le application censite.
 
+**_Main menù_**
 
+<img src="..\backstage_menu.png">
+
+**_Catalogo delle API_**
+
+<img src="..\backstage_apis.png">
+
+## Cloudnative
