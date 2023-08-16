@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "DevOp & .Net Developer"
-  content: "Parliamo di Devop e sviluppo su tecnologia .net"
+  content: "Parliamo di Devop e sviluppo su tecnologia .net - Don't accept the defaults! - Abel Wang"
   image: "/images/banner.png"
   button:
     enable: false
