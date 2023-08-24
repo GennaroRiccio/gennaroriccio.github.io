@@ -3,7 +3,7 @@ title: "TIPS #1 DotNet View Transitive Packages in .NET Solution"
 meta_title: "DotNet View Transitive Packages in .NET Solution"
 description: "DotNet View Transitive Packages in .NET Solution"
 date: 2023-08-24T05:00:00Z
-image: "/images/MicrosoftNet.png"
+image: "/images/microsoftnet.png"
 categories: ["Tips", "Developer"]
 author: "Gennaro Riccio"
 tags: ["dotnet", "tips","packages"]
