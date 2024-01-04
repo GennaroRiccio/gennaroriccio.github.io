@@ -39,7 +39,7 @@ Se ad esempio in un .csproj abbiamo una configurazione di package del tipo:
     </ItemGroup>
 </Project>
 ```
-Basterà semplicemente cancellare il tag Version dal PackageReference e spostare l'ItemGroup compreso di Vesion nel file Directory.Packages.props, quindi nel caso in esempio avremo:
+Basterà semplicemente cancellare il tag Version dal PackageReference e spostare l'ItemGroup compreso di Version nel file Directory.Packages.props, quindi nel caso in esempio avremo:
 
 __Directory.Packages.props__
 
@@ -77,7 +77,7 @@ Mentre il contenuto del nostro .csproj diventa:
 In questo modo per Solution con tanti progetti abbiamo un unico punto centralizzato dove avere un unico versionamento dei package nuget.
 
 ## Rules
-E' possibile che ogni progetto si una Solution abbia il suo Directory.Packages.props la regola principale di lettura è la seguente: viene valutato un solo file .props per progetto.
+Ogni progetto di una Solution può avere il suo Directory.Packages.props, la regola principale di lettura è la seguente: viene valutato un solo file .props per progetto.
 
 Se ad esempio ci troviamo un una codizione del genere:
 ```
